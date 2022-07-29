@@ -1,9 +1,13 @@
-<img src="https://user-images.githubusercontent.com/88837161/181855314-1a90c1a4-5462-41cd-939a-1ff542fd3034.gif"
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88837161/181855314-1a90c1a4-5462-41cd-939a-1ff542fd3034.gif" 
 />
+</p>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Bharathi</h1>
-<h3 align="center">🌐 Web Developer</h3>
+
+
+<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> Holla </h1>
+
 
 - 🌱 I’m currently learning Web Development
 
