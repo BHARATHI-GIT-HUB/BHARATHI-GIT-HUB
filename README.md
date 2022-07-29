@@ -56,5 +56,7 @@
 ![Apple](https://img.shields.io/badge/Mac-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ---
 
+![Screenshot 2022-07-30 040024](https://user-images.githubusercontent.com/88837161/181853785-fc2d58f8-0de0-4a8f-95c4-7e986d164a84.png)
+
 
 
