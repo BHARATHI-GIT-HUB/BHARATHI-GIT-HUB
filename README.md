@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning Web Development
 
-- 👨‍💻 self taught designer
+- 👨‍💻 Self taught designer
 
-- 📝 passinated software develop
+- 📝 Passinated software develop
 
-- 💬 Looking forward for Start-Ups
+- 👀 Looking forward for Start-Ups
 
 
 
