@@ -5,6 +5,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Bharathi</h1>
 <h3 align="center">🌐 Web Developer</h3>
 
+- 🌱 I’m currently learning Web Development
+
+- 👨‍💻 self taught designer
+
+- 📝 passinated software develop
+
+- 💬 Looking forward for Start-Ups
+
+
 
 ### 🤝 Connect with me:
 
