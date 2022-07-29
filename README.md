@@ -1,19 +1,10 @@
-<img src="https://user-images.githubusercontent.com/88837161/181845132-8034cdce-c9ab-4fc6-a634-abd6108afb45.gif" width="9
+<img src="https://user-images.githubusercontent.com/88837161/181845132-8034cdce-c9ab-4fc6-a634-abd6108afb45.gif" width="8
 00" height="150"/>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Bharathi</h1>
 <h3 align="center">🌐 Web Developer</h3>
 
-- 🌱 I’m currently learning **Web3**
-
-- 👨‍💻 All of my projects are available [here](https://itsrakesh.co/work/projects)
-
-- 📝 I regularly write articles on my [blog](https://blog.itsrakesh.co)
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **rakesh@itsrakesh.co**
 
 ### 🤝 Connect with me:
 
@@ -39,8 +30,8 @@
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🗃️ Databases
 
@@ -61,9 +52,9 @@
 ![intellijidea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### 💻 Workspace
-
-[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://itsrakesh.co)
-
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Apple](https://img.shields.io/badge/Mac-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ---
+
 
 
