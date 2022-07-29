@@ -1,5 +1,5 @@
-<img src="https://user-images.githubusercontent.com/88837161/181845132-8034cdce-c9ab-4fc6-a634-abd6108afb45.gif" width="8
-00" height="150"/>
+<img src="https://user-images.githubusercontent.com/88837161/181855314-1a90c1a4-5462-41cd-939a-1ff542fd3034.gif"
+/>
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Bharathi</h1>
