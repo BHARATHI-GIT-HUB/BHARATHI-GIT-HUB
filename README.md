@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently focusing Backend
 
-- 👨‍💻 Self Taught Designer
+- 👨‍💻 Self Taught Developer
 
 - 📝 Passionated Software Engineer
 
