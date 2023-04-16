@@ -9,7 +9,7 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> Holla </h1>
 
 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently focusing Backend
 
 - 👨‍💻 Self Taught Designer
 
