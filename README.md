@@ -72,4 +72,6 @@
 ![Screenshot 2022-07-30 040024](https://user-images.githubusercontent.com/88837161/181853785-fc2d58f8-0de0-4a8f-95c4-7e986d164a84.png)
 
 
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=BHARATHI-GIT-HUB&&style=flat-square" align="center" />
+</div>  
